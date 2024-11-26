@@ -1,3 +1,5 @@
+#Frequently used modules/functions instead of defining everytime in components we can define here -- reusability
+
 import os
 from box.exceptions import BoxValueError
 import yaml
