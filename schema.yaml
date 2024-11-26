@@ -1,3 +1,5 @@
+#Here we mention all the columsn /attributes we have in our database
+
 COLUMNS:
   fixed acidity: float64
   volatile acidity: float64
