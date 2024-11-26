@@ -1,4 +1,4 @@
-#Here we mention all the columsn /attributes we have in our database
+#Here we mention all the columsn /attributes we have in our database, used for data validation pipeline
 
 COLUMNS:
   fixed acidity: float64
