@@ -6,6 +6,7 @@ from mlProject.entity.config_entity import DataTransformationConfig
 
 
 
+
 class DataTransformation:
     def __init__(self, config: DataTransformationConfig):
         self.config = config
