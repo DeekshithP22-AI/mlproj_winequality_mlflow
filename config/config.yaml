@@ -35,6 +35,8 @@ model_evaluation:
   test_data_path: artifacts/data_transformation/test.csv
   model_path: artifacts/model_trainer/model.joblib
   metric_file_name: artifacts/model_evaluation/metrics.json
+  dagshub_username: "deekshithwork22"  # Add your username
+  dagshub_repo_name: "mlproj_winequality_mlflow"  # Add your repo name
 
 
 

@@ -51,3 +51,5 @@ class ModelEvaluationConfig:
     metric_file_name: Path
     target_column: str
     mlflow_uri: str
+    dagshub_username: str  # Added
+    dagshub_repo_name: str  # Added
